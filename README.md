@@ -11,4 +11,11 @@ Here is the flow of control in a 'for' loop −
 
 4)The condition is now evaluated again. If it is true, the loop executes and the process repeats itself (body of loop, then increment step, and then again condition). After the condition becomes false, the 'for' loop terminates.
 Algoritm:-
-        
+        1)Start
+        2)int main(){}
+        3)for("Initialization/Condition"){for("Initialization/Condition"){"Statemts"}}
+        4)for("Initialization/Condition"){printf("...");}
+        5)End
+Conclusion:-
+            From this program we learnt how to use different for loops to print different kinds of pattern on the output screen.
+            
